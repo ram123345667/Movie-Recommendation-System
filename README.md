@@ -1,8 +1,8 @@
 # Movie-Recommendation-System
 Objective:Suggest movies based on user preferences using Machine Learning
-A Hybrid Movie Recommendation System built with Python, Machine Learning, and Streamlit. This application suggests movies by analyzing genre similarities (Content-Based) and user rating patterns (Collaborative Filtering) using the MovieLens dataset.
+# A Hybrid Movie Recommendation System built with Python, Machine Learning, and Streamlit. This application suggests movies by analyzing genre similarities (Content-Based) and user rating patterns (Collaborative Filtering) using the MovieLens dataset.
 
-Features
+#Features
 1.Hybrid Recommendation Logic: Combines metadata analysis with user-item interactions.
 2.Interactive UI: Built with Streamlit for a seamless, browser-based user experience.
 3.Vectorized Search: Uses TF-IDF Vectorization and Cosine Similarity for high-performance recommendations.
